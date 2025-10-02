@@ -349,11 +349,7 @@ const gabrielLifestyle = {
 </table>
 
 ### 🎵 **Mi playlist para la hora de programar**
-<div align="center">
-  <iframe src="https://open.spotify.com/embed/playlist/0XCFLFW8BpjbLy7GeaoBiW?si=ba_78dvFR-KLZejhXNh2NQ"
-    width="500" height="250" frameborder="0" allowtransparency="true" allow="encrypted-media">
-  </iframe>
-</div>
+[![Escuchar en Spotify](https://img.shields.io/badge/🎧_Mi_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0XCFLFW8BpjbLy7GeaoBiW)
 
 
 ---
