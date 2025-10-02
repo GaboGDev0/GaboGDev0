@@ -219,9 +219,9 @@ devops_toolkit:
 
 <div align="center">
   
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=GaboGDev0&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/GaboGDev0/NOMBRE_REPO_1)
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=GaboGDev0&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/GaboGDev0/My_PWA)
 
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=GaboGDev0&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/GaboGDev0/NOMBRE_REPO_2)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=GaboGDev0&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/GaboGDev0/My_PWA)
 
 </div>
 
