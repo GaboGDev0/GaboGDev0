@@ -47,7 +47,7 @@ const gabriel = {
 
 ### 🌟 **Especialidades**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gabrielgarcia&theme=tokyonight&hide_border=true&custom_title=Tiempo%20de%20Código%20Semanal&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaboGDev0&theme=tokyonight&hide_border=true&custom_title=Tiempo%20de%20Código%20Semanal&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B" alt="Wakatime Stats" />
 </p>
 
 ### � **Mi Filosofía**
@@ -127,7 +127,7 @@ devops_toolkit:
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=FF6B6B&point=00D8FF&area=true&hide_border=true&custom_title=🔥%20Actividad%20de%20Commits%20-%20Construyendo%20el%20Futuro%20Día%20a%20Día" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaboGDev0&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=FF6B6B&point=00D8FF&area=true&hide_border=true&custom_title=🔥%20Actividad%20de%20Commits%20-%20Construyendo%20el%20Futuro%20Día%20a%20Día" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -144,12 +144,12 @@ devops_toolkit:
 
 ### 🔥 **GitHub Analytics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=FF6B6B&text_color=ffffff&custom_title=⚡%20Estadísticas%20de%20GitHub" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GaboGDev0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=FF6B6B&text_color=ffffff&custom_title=⚡%20Estadísticas%20de%20GitHub" alt="GitHub Stats" />
 </p>
 
 ### 🎯 **Contribuciones Anuales**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D8FF&ring=FF6B6B&fire=00D8FF&currStreakNum=00D8FF&sideNums=00D8FF&currStreakLabel=FF6B6B&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaboGDev0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D8FF&ring=FF6B6B&fire=00D8FF&currStreakNum=00D8FF&sideNums=00D8FF&currStreakLabel=FF6B6B&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 </td>
@@ -157,12 +157,12 @@ devops_toolkit:
 
 ### 📈 **Lenguajes Dominados**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&custom_title=🚀%20Stack%20Tecnológico" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaboGDev0&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&custom_title=🚀%20Stack%20Tecnológico" alt="Top Languages" />
 </p>
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GaboGDev0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 </td>
@@ -170,7 +170,7 @@ devops_toolkit:
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&custom_title=⏰%20Tiempo%20de%20Código%20Esta%20Semana" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaboGDev0&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&custom_title=⏰%20Tiempo%20de%20Código%20Esta%20Semana" alt="Wakatime Stats" />
 </div>
 
 <div align="center">
@@ -219,9 +219,9 @@ devops_toolkit:
 
 <div align="center">
   
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO_GITHUB&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/TU_USUARIO_GITHUB/NOMBRE_REPO_1)
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=GaboGDev0&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/GaboGDev0/NOMBRE_REPO_1)
 
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO_GITHUB&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/TU_USUARIO_GITHUB/NOMBRE_REPO_2)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=GaboGDev0&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/GaboGDev0/NOMBRE_REPO_2)
 
 </div>
 
@@ -273,7 +273,7 @@ interface CareerGoals {
 
 ### 🌟 **Valores & Principios**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D8FF&text_color=ffffff&custom_title=🎯%20Mi%20Impacto%20en%20GitHub&card_width=400" alt="Impact Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GaboGDev0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D8FF&text_color=ffffff&custom_title=🎯%20Mi%20Impacto%20en%20GitHub&card_width=400" alt="Impact Stats" />
 </div>
 
 ### 🎭 **Filosofía de Desarrollo**
@@ -331,7 +331,7 @@ const gabrielLifestyle = {
 
 ### 🧠 **Growth Mindset**
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO_GITHUB&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaboGDev0&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 ### ⚡ **Daily Routine**
@@ -369,7 +369,7 @@ const gabrielLifestyle = {
   
 [![Portfolio](https://img.shields.io/badge/🌟_MI_PORTFOLIO-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0D1117)](TU_ENLACE_PORTAFOLIO)
 
-[![GitHub](https://img.shields.io/badge/📂_REPOSITORIOS-00D8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/TU_USUARIO_GITHUB)
+[![GitHub](https://img.shields.io/badge/📂_REPOSITORIOS-00D8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/GaboGDev0)
 
 </div>
 
@@ -427,9 +427,9 @@ timezone: "🕐 GMT-5 (Colombia)"
 <td width="50%" align="center">
 
 ### 📊 **Visitor Stats**
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=00D8FF&style=for-the-badge&label=VISITANTES" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=GaboGDev0&color=00D8FF&style=for-the-badge&label=VISITANTES" alt="Visitor Count" />
 
-<img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?color=00D8FF&logoColor=white&style=for-the-badge&logo=GitHub&label=SEGUIDORES" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/GaboGDev0?color=00D8FF&logoColor=white&style=for-the-badge&logo=GitHub&label=SEGUIDORES" alt="GitHub Followers" />
 
 </td>
 <td width="50%" align="center">
