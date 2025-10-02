@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gabriel García Torres 👋
 
 <div align="center">
-  <img src="./Foto-G.jpg" alt="Gabriel García Torres" width="200" style="border-radius: 50%;" />
+  <img src="./Foto-G.jpg" alt="Gabriel García Torres" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Web+%26+M%C3%B3vil+H%C3%ADbrido;Creando+experiencias+digitales+increíbles;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas)](https://git.io/typing-svg)
 </div>
