@@ -92,16 +92,16 @@ const frontendStack = {
 
 ### ⚡ **Backend & Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,react,mongodb,mysql,firebase,docker&theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,react,mongodb,mysql,firebase&theme=dark" alt="Backend Skills" />
 </p>
 
 ```php
 <?php
 class BackendExpertise {
-    public $languages = ['Node.js', 'PHP', 'Python'];
-    public $frameworks = ['Laravel', 'Express', 'FastAPI'];
+    public $languages = ['Node.js', 'PHP'];
+    public $frameworks = ['Laravel', 'Express'];
     public $databases = ['MongoDB', 'MySQL', 'Firebase'];
-    public $mobile = ['React Native', 'Flutter'];
+    public $mobile = ['React Native'];
 }
 ?>
 ```
@@ -111,16 +111,15 @@ class BackendExpertise {
 
 ### 🔧 **DevOps & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,netlify,vercel,figma,postman,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,figma,postman,vscode&theme=dark" alt="Tools" />
 </p>
 
 ```yaml
 devops_toolkit:
   version_control: [Git, GitHub, GitLab]
-  deployment: [Netlify, Vercel, AWS]
-  containers: [Docker, Docker Compose]
+  deployment: [Netlify]
   design: [Figma, Adobe XD]
-  testing: [Jest, Cypress, Postman]
+  testing: [Cypress, Postman]
 ```
 
 </td>
@@ -208,9 +207,9 @@ devops_toolkit:
 
 ### 🎯 **Áreas de Especialización**
 - **🎨 Frontend Development** - React, Angular, Next.js
-- **📱 Mobile Development** - React Native, Flutter
+- **📱 Mobile Development** - React Native
 - **🔧 Backend Architecture** - Node.js, PHP, Laravel
-- **☁️ Cloud Deployment** - AWS, Netlify, Vercel
+- **☁️ Cloud Deployment** - Netlify
 - **🤖 AI Integration** - OpenAI, TensorFlow.js
 
 </td>
@@ -314,7 +313,7 @@ const gabrielLifestyle = {
   },
   
   music: {
-    genres: ["Electronic", "Jazz", "Lofi Hip-Hop"],
+    genres: ["Todos los generos"],
     purpose: "Compañera ideal para programar",
     effect: "Inspiración y flow state"
   },
@@ -336,13 +335,13 @@ const gabrielLifestyle = {
 </div>
 
 ### ⚡ **Daily Routine**
-- **🌅 05:30** - Meditation & Planning
-- **🏃‍♂️ 06:00** - Morning Workout
-- **☕ 07:30** - Coffee & Code Review
-- **💻 08:00** - Development Deep Work
-- **🎵 14:00** - Music Break & Learning
-- **🤝 16:00** - Team Collaboration
-- **📚 20:00** - Reading & Research
+- **🌅 06:30** - Meditacion
+- **🏃‍♂️ 08:00** - GYM
+- **☕ 10:30** - Cafe
+- **💻 11:00** - Desarrollo web
+- **🎵 14:00** - Escuela
+- **🤝 20:00** - Tirando Coding
+- **📚 21:00** - Leer un poco
 - **🧘‍♂️ 22:00** - Reflection & Rest
 
 </td>
