@@ -348,9 +348,13 @@ const gabrielLifestyle = {
 </tr>
 </table>
 
+### 🎵 **Mi playlist para la hora de programar**
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
+  <iframe src="https://open.spotify.com/embed/playlist/0XCFLFW8BpjbLy7GeaoBiW?si=ba_78dvFR-KLZejhXNh2NQ"
+    width="500" height="250" frameborder="0" allowtransparency="true" allow="encrypted-media">
+  </iframe>
 </div>
+
 
 ---
 
