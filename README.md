@@ -35,7 +35,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/NextJs-000000?logo=next.js&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -111,8 +111,6 @@
 
 📖 **Lectura**: Siempre con un libro en las manos, explorando desde tecnología hasta desarrollo personal
 
-🏛️ **Filosofía**: Apasionado por la **filosofía estoica** y la **sabiduría taoísta**. Encuentro en estas tradiciones herramientas valiosas para el crecimiento personal y profesional, aplicando principios de serenidad, adaptabilidad y mejora continua tanto en el código como en la vida
-
 ---
 
 ## 🌐 Portafolio & Contacto
@@ -144,8 +142,4 @@
 
 <div align="center">
   <i>💡 "El código es poesía, y cada proyecto es una nueva historia por contar"</i>
-  
-  <br><br>
-  
-  <i>🏛️ "No puedes controlar lo que sucede, pero sí puedes controlar cómo respondes a lo que sucede" - Epicteto</i>
 </div>
